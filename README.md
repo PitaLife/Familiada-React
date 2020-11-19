@@ -47,4 +47,6 @@ day I will choose to learn something new, and try it here.
 
 ## Contact
 
-Created by Patryk Gajek Github: https://github.com/pgajek
+Created by Novita Travis
+Github: https://github.com/PitaLife
+Youtube: https://www.youtube.com/channel/UCvRVfHXd9Ujp_ET0-V2JfIw
